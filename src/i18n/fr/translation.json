@@ -1,0 +1,44 @@
+{
+  "welcome": "Bienvenue sur mon site web",
+  "description": "Ceci est une application React multilingue.",
+  "about": "Lorsque je lis les choses scandaleuses que Donald Trump déclare par Tweet et ordre exécutif, je ne peux plus être sûr que les principes et la structure du gouvernement américain, que j'ai appris et auxquels nous nous sommes engagés depuis l'enfance, soient acquis. Une forme d'autocratie belliqueuse déguisée en conservatisme remet en question les limites et le sens du cadre de notre constitution et menace de subvertir la dynamique politique qui a rendu le monde plus sûr et moins pauvre, génération après génération. Lorsque mon sentiment d'impuissance s'est transformé en colère, je me suis demandé s'il y avait quelque chose que je pouvais faire au-delà d'écrire des lettres fortes à mes représentants à D.C. et de voter tous les quelques années, pour changer la situation. Avec les démocrates dépourvus de pouvoir politique significatif, le GOP terrifié à l'idée de s'opposer et la Cour suprême indifférente, comment pourrais-je déclarer que ce qui se passe dans le pouvoir exécutif américain n'est pas normal et va à l'encontre de ce que la plupart des gens croient dans leur cœur, indépendamment de leurs points de vue politiques ? Je me suis mis au défi de lister les choses que je considère fondamentales pour le caractère humain civilisé et qui doivent être protégées, telles que la liberté, la foi, l'honnêteté, l'opportunité et l'empathie, et de créer un symbole – une icône – représentant une déclaration d'engagement à défendre ces principes. Ce bouton est imprimé avec cette icône. Mon espoir est que, lorsque le porteur est interrogé sur la signification du bouton, il puisse répondre qu'il rejette la haine, la corruption, le fascisme, l'injustice et l'ignorance. Il peut également dire qu'il embrasse la démocratie, l'éducation, l'intégrité, la prospérité et la foi. Le symbole n'a pas pour but de représenter une idéologie politique : il vit à l'intersection des rues Cheney et Maddow. Gardant la foi,",
+  "home": "Déclarez que vous rejetez la haine. Déclarez que vous rejetez l'ignorance. Déclarez que vous rejetez la corruption. Déclarez que vous rejetez la malhonnêteté. Déclarez que vous rejetez l'autocratie. Déclarez que vous rejetez la lâcheté. Déclarez que vous rejetez l'injustice. Déclarez que vous rejetez la cupidité. Déclarez que vous rejetez la paranoïa. Déclarez que vous rejetez la peur. Déclarez que vous rejetez le mal. Déclarez être conscient. Déclarez que vous défendez l'éducation. Déclarez que vous défendez l'intégrité. Déclarez que vous défendez la vérité. Déclarez que vous défendez la civilité. Déclarez que vous défendez la sécurité. Déclarez que vous défendez le caractère. Déclarez que vous défendez l'amour. Déclarez que vous défendez la prospérité. Déclarez que vous défendez la foi. Déclarez que vous défendez l'honnêteté. Déclarez que vous défendez la fierté. Déclarez que vous défendez la vérité. Déclarez que vous défendez la dignité. Déclarez que vous défendez le respect. Déclarez que vous défendez le courage. Déclarez que vous défendez la curiosité.",
+  "kit": {
+    "imageAlt": "OSEZ DÉCLARER !",
+    "selectKits": "Veuillez sélectionner le nombre de kits :",
+    "one": "Un",
+    "five": "Cinq",
+    "ten": "Dix",
+    "submit": "Soumettre",
+    "freeItemTitle": "Pour recevoir un bouton ou un autocollant gratuit,",
+    "sendEnvelope": "Envoyez une enveloppe affranchie et adressée à :",
+    "address": {
+      "line1": "DECLARE",
+      "line2": "P.O. Box 143",
+      "line3": "Belmont, NC 28012"
+    },
+    "indicateItem": "Veuillez indiquer sur l'enveloppe si vous souhaitez recevoir un bouton OU un autocollant."
+  },
+  "checkout": {
+    "title": "Caisse",
+    "subtitle": "Complétez votre commande",
+    "orderSummary": "Résumé de la commande",
+    "total": "Total",
+    "fullName": "Nom complet",
+    "emailAddress": "Adresse e-mail",
+    "streetAddress": "Adresse",
+    "city": "Ville",
+    "state": "État",
+    "zipCode": "Code postal",
+    "completeOrder": "Finaliser la commande",
+    "footerText": "Votre commande sera traitée et expédiée à l'adresse indiquée ci-dessus.",
+    "oneKit": "Un kit",
+    "fiveKits": "Cinq kits",
+    "tenKits": "Dix kits"
+  },
+  "navbar": {
+    "home": "Accueil",
+    "about": "De quoi s'agit-il ?",
+    "swag": "Produits dérivés"
+  }
+}

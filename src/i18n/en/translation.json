@@ -1,0 +1,44 @@
+{
+  "welcome": "Welcome to my website",
+  "description": "This is a multilingual React app.",
+  "about": "When I read about the outrageous things Donald Trump declares by Tweet and executive order, I no longer rest assured that the principles and structure of the American government that I learned about and to which we pledged since childhood can be taken for granted. A brand of belligerent autocracy disguised as conservatism is challenging the limits and meanings of our constitution's framework and threatens to subvert the political dynamics that have grown the world safer and less impoverished, generation after generation. When my feeling of helplessness turned to anger, I asked myself if there was anything I could do beyond writing strong letters to my representatives in D.C., and voting every couple of years, to change the situation. With the Democrats bereft of significant political power, the GOP terrified to oppose and the Supreme Court indifferent, how could I declare that what is happening in the American Executive Branch is not normal and is contrary to what most people believe in their hearts, irrespective of their political viewpoints? I challenged myself to list the things that I believe are fundamental to civilized human character and need to be protected, things like liberty, freedom, faith, honesty, opportunity and empathy, and to come up with a symbol – an icon – that would represent a declaration of commitment to defending those principles. This button is printed with that icon. My hope is that when the wearer is asked what the button means, they can answer it means I reject hate, corruption, fascism, injustice and ignorance. They can further say that they embrace democracy, education, integrity, prosperity and faith. The symbol is not intended to represent any political ideology: it lives at the intersection of Cheney and Maddow streets. Keeping the faith,",
+  "home":"Declare you reject hate. Declare you reject ignorance. Declare you reject corruption. Declare you reject dishonesty. Declare you reject autocracy. Declare you reject cowardice. Declare you reject injustice. Declare you reject greed. Declare you reject paranoia. Declare you reject fear. Declare you reject evil. Declare to be aware. Declare you defend education. Declare you defend integrity. Declare you defend truth. Declare you defend civility. Declare you defend security. Declare you defend character. Declare you defend love. Declare you defend prosperity. Declare you defend faith. Declare you defend honesty. Declare you defend pride. Declare you defend truth. Declare you defend dignity. Declare you defend respect. Declare you defend bravery. Declare you defend curiosity.",
+  "kit": {
+    "imageAlt": "DARE TO DECLARE!",
+    "selectKits": "Please select number of kits:",
+    "one": "One",
+    "five": "Five",
+    "ten": "Ten",
+    "submit": "Submit",
+    "freeItemTitle": "To receive a free button or bumper sticker,",
+    "sendEnvelope": "Send a self-addressed stamped envelope to:",
+    "address": {
+      "line1": "DECLARE",
+      "line2": "P.O. Box 143",
+      "line3": "Belmont, NC 28012"
+    },
+    "indicateItem": "Please indicate on the envelope if you wish to receive a button OR bumper sticker."
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtitle": "Complete your order",
+    "orderSummary": "Order Summary",
+    "total": "Total",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "streetAddress": "Street Address",
+    "city": "City",
+    "state": "State",
+    "zipCode": "ZIP Code",
+    "completeOrder": "Complete Order",
+    "footerText": "Your order will be processed and shipped to the address provided above.",
+    "oneKit": "One Kit",
+    "fiveKits": "Five Kits",
+    "tenKits": "Ten Kits"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "What's This About?",
+    "swag": "Swag"
+  }
+}

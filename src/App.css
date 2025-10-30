@@ -1,0 +1,182 @@
+@import url('https://fonts.cdnfonts.com/css/times-new-roman');
+/* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap'); */
+.image-class{
+    background-image: url("./assets/peace.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:400px auto;
+}
+.playfair-display {
+  font-family: 'Times New Roman', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* =========================================================
+   RESPONSIVE ADJUSTMENTS
+   ========================================================= */
+
+/* --- Mobile Devices (max-width: 600px) --- */
+@media (max-width: 600px) {
+  /* Teleprompter 1 */
+  @keyframes teleprompter-scroll {
+    0% {
+      transform: translateY(-120%);
+    }
+    100% {
+      transform: translateY(100%);
+    }
+  }
+
+  .teleprompter {
+    animation: teleprompter-scroll 45s linear infinite;
+    font-size: 1.4rem;
+    line-height: 1.4;
+  }
+
+  /* Teleprompter 2 */
+  @keyframes teleprompter-scroll2 {
+    0% {
+      transform: translateY(100%);
+    }
+    94% {
+      transform: translateY(-465%);
+    }
+    100% {
+      transform: translateY(-465%);
+    }
+  }
+
+  .teleprompter2 {
+    animation: teleprompter-scroll2 110s linear infinite;
+    font-size: 1.8rem;
+    ;
+    line-height: 1.4;
+    text-align: center;
+  }
+
+
+  .image-class{
+    
+    background-size:300px auto;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+/* --- Tablets (601px - 1024px) --- */
+@media (min-width: 601px) and (max-width: 1024px) {
+  /* Teleprompter 1 */
+  @keyframes teleprompter-scroll {
+    0% {
+      transform: translateY(-125%);
+    }
+    100% {
+      transform: translateY(100%);
+    }
+  }
+
+  .teleprompter {
+    animation: teleprompter-scroll 40s linear infinite;
+    display: inline-block;
+    white-space: nowrap;
+  }
+
+  /* Teleprompter 2 */
+  @keyframes teleprompter-scroll2 {
+    0% {
+      transform: translateY(100%);
+    }
+    90% {
+      transform: translateY(-135%);
+    }
+    100% {
+      transform: translateY(-135%);
+    }
+  } 
+
+  .teleprompter2 {
+    animation: teleprompter-scroll2 100s linear infinite;
+    width: 80vw;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* --- Large Screens (1025px and above) --- */
+@media (min-width: 1025px) {
+  /* =========================================================
+   TELEPROMPTER 1 — Scrolls Upward (Continuous)
+   ========================================================= */
+@keyframes teleprompter-scroll {
+  0% {
+    transform: translateY(-130%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+.teleprompter {
+  display: inline-block;
+  animation: teleprompter-scroll 35s linear infinite;
+  white-space: nowrap;
+}
+
+/* =========================================================
+   TELEPROMPTER 2 — Scrolls Downward (Pauses at End)
+   ========================================================= */
+@keyframes teleprompter-scroll2 {
+  0% {
+    transform: translateY(100%);
+  }
+  90% {
+    transform: translateY(-90%);
+  }
+  100% {
+    transform: translateY(-90%); /* pause at end */
+  }
+}
+
+.teleprompter2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: teleprompter-scroll2 60s linear infinite;
+  line-height: 1.5;
+}
+}

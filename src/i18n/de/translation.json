@@ -1,0 +1,44 @@
+{
+  "welcome": "Willkommen auf meiner Webseite",
+  "description": "Dies ist eine mehrsprachige React-App.",
+  "about": "Wenn ich von den empörenden Dingen lese, die Donald Trump per Tweet und Executive Order verkündet, bin ich nicht mehr sicher, dass die Prinzipien und die Struktur der amerikanischen Regierung, die ich gelernt habe und zu denen wir seit der Kindheit verpflichtet sind, als selbstverständlich angesehen werden können. Eine Art aggressiver Autokratie, die als Konservatismus getarnt ist, testet die Grenzen und Bedeutungen des Rahmens unserer Verfassung und droht, die politischen Dynamiken zu untergraben, die die Welt Generation für Generation sicherer und weniger arm gemacht haben. Als mein Gefühl der Hilflosigkeit in Wut umschlug, fragte ich mich, ob ich über das Schreiben starker Briefe an meine Vertreter in D.C. und das Wählen alle paar Jahre hinaus etwas tun könnte, um die Situation zu ändern. Da die Demokraten keine nennenswerte politische Macht besitzen, die GOP sich vor Opposition fürchtet und der Oberste Gerichtshof gleichgültig ist, wie könnte ich erklären, dass das, was in der amerikanischen Exekutive geschieht, nicht normal ist und dem widerspricht, was die meisten Menschen im Herzen glauben, unabhängig von ihrer politischen Sichtweise? Ich habe mich selbst herausgefordert, die Dinge aufzulisten, die ich für grundlegend für den zivilisierten menschlichen Charakter halte und geschützt werden müssen, Dinge wie Freiheit, Glauben, Ehrlichkeit, Chancen und Empathie, und ein Symbol – ein Icon – zu entwickeln, das eine Erklärung für das Engagement zum Schutz dieser Prinzipien darstellt. Dieser Button ist mit diesem Icon bedruckt. Meine Hoffnung ist, dass, wenn der Träger gefragt wird, was der Button bedeutet, er antworten kann, dass er Hass, Korruption, Faschismus, Ungerechtigkeit und Ignoranz ablehnt. Er kann weiter sagen, dass er Demokratie, Bildung, Integrität, Wohlstand und Glauben befürwortet. Das Symbol soll keine politische Ideologie darstellen: Es lebt an der Kreuzung von Cheney- und Maddow-Straßen. Den Glauben bewahrend,",
+  "home": "Erklären Sie, dass Sie Hass ablehnen. Erklären Sie, dass Sie Ignoranz ablehnen. Erklären Sie, dass Sie Korruption ablehnen. Erklären Sie, dass Sie Unehrlichkeit ablehnen. Erklären Sie, dass Sie Autokratie ablehnen. Erklären Sie, dass Sie Feigheit ablehnen. Erklären Sie, dass Sie Ungerechtigkeit ablehnen. Erklären Sie, dass Sie Gier ablehnen. Erklären Sie, dass Sie Paranoia ablehnen. Erklären Sie, dass Sie Angst ablehnen. Erklären Sie, dass Sie das Böse ablehnen. Erklären Sie, dass Sie bewusst sind. Erklären Sie, dass Sie Bildung verteidigen. Erklären Sie, dass Sie Integrität verteidigen. Erklären Sie, dass Sie Wahrheit verteidigen. Erklären Sie, dass Sie Zivilität verteidigen. Erklären Sie, dass Sie Sicherheit verteidigen. Erklären Sie, dass Sie Charakter verteidigen. Erklären Sie, dass Sie Liebe verteidigen. Erklären Sie, dass Sie Wohlstand verteidigen. Erklären Sie, dass Sie Glauben verteidigen. Erklären Sie, dass Sie Ehrlichkeit verteidigen. Erklären Sie, dass Sie Stolz verteidigen. Erklären Sie, dass Sie Würde verteidigen. Erklären Sie, dass Sie Respekt verteidigen. Erklären Sie, dass Sie Tapferkeit verteidigen. Erklären Sie, dass Sie Neugier verteidigen.",
+  "kit": {
+    "imageAlt": "WAGEN SIE ES ZU ERKLÄREN!",
+    "selectKits": "Bitte wählen Sie die Anzahl der Kits:",
+    "one": "Eins",
+    "five": "Fünf",
+    "ten": "Zehn",
+    "submit": "Absenden",
+    "freeItemTitle": "Um einen kostenlosen Button oder Aufkleber zu erhalten,",
+    "sendEnvelope": "Senden Sie einen frankierten und adressierten Umschlag an:",
+    "address": {
+      "line1": "DECLARE",
+      "line2": "P.O. Box 143",
+      "line3": "Belmont, NC 28012"
+    },
+    "indicateItem": "Bitte geben Sie auf dem Umschlag an, ob Sie einen Button ODER Aufkleber wünschen."
+  },
+  "checkout": {
+    "title": "Zur Kasse",
+    "subtitle": "Schließen Sie Ihre Bestellung ab",
+    "orderSummary": "Bestellübersicht",
+    "total": "Gesamt",
+    "fullName": "Vollständiger Name",
+    "emailAddress": "E-Mail-Adresse",
+    "streetAddress": "Straßenadresse",
+    "city": "Stadt",
+    "state": "Bundesland",
+    "zipCode": "Postleitzahl",
+    "completeOrder": "Bestellung abschließen",
+    "footerText": "Ihre Bestellung wird bearbeitet und an die oben angegebene Adresse versendet.",
+    "oneKit": "Ein Kit",
+    "fiveKits": "Fünf Kits",
+    "tenKits": "Zehn Kits"
+  },
+  "navbar": {
+    "home": "Startseite",
+    "about": "Worum geht es hier?",
+    "swag": "Merchandise"
+  }
+}

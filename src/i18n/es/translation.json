@@ -1,0 +1,44 @@
+{
+  "welcome": "Bienvenido a mi sitio web",
+  "description": "Esta es una aplicación React multilingüe.",
+  "about": "Cuando leo sobre las cosas escandalosas que Donald Trump declara por Twitter y órdenes ejecutivas, ya no puedo dar por sentado que los principios y la estructura del gobierno estadounidense, que aprendí y a los que nos comprometimos desde la infancia, sean seguros. Una forma de autocracia beligerante disfrazada de conservadurismo desafía los límites y significados del marco de nuestra constitución y amenaza con subvertir la dinámica política que ha hecho al mundo más seguro y menos empobrecido generación tras generación. Cuando mi sentimiento de impotencia se convirtió en ira, me pregunté si había algo que pudiera hacer más allá de escribir cartas firmes a mis representantes en D.C. y votar cada pocos años, para cambiar la situación. Con los demócratas sin poder político significativo, el GOP temeroso de oponerse y la Corte Suprema indiferente, ¿cómo podría declarar que lo que sucede en el Poder Ejecutivo estadounidense no es normal y va en contra de lo que la mayoría de las personas cree en su corazón, independientemente de sus puntos de vista políticos? Me desafié a enumerar las cosas que considero fundamentales para el carácter humano civilizado y que deben protegerse, cosas como libertad, fe, honestidad, oportunidad y empatía, y crear un símbolo – un ícono – que representara una declaración de compromiso para defender esos principios. Este botón está impreso con ese ícono. Espero que, cuando se le pregunte al portador qué significa el botón, pueda responder que significa que rechaza el odio, la corrupción, el fascismo, la injusticia y la ignorancia. Puede además decir que abraza la democracia, la educación, la integridad, la prosperidad y la fe. El símbolo no pretende representar ninguna ideología política: vive en la intersección de las calles Cheney y Maddow. Manteniendo la fe,",
+  "home": "Declara que rechazas el odio. Declara que rechazas la ignorancia. Declara que rechazas la corrupción. Declara que rechazas la deshonestidad. Declara que rechazas la autocracia. Declara que rechazas la cobardía. Declara que rechazas la injusticia. Declara que rechazas la codicia. Declara que rechazas la paranoia. Declara que rechazas el miedo. Declara que rechazas el mal. Declara estar consciente. Declara que defiendes la educación. Declara que defiendes la integridad. Declara que defiendes la verdad. Declara que defiendes la civilidad. Declara que defiendes la seguridad. Declara que defiendes el carácter. Declara que defiendes el amor. Declara que defiendes la prosperidad. Declara que defiendes la fe. Declara que defiendes la honestidad. Declara que defiendes el orgullo. Declara que defiendes la verdad. Declara que defiendes la dignidad. Declara que defiendes el respeto. Declara que defiendes la valentía. Declara que defiendes la curiosidad.",
+  "kit": {
+    "imageAlt": "¡ATRÉVETE A DECLARAR!",
+    "selectKits": "Por favor selecciona el número de kits:",
+    "one": "Uno",
+    "five": "Cinco",
+    "ten": "Diez",
+    "submit": "Enviar",
+    "freeItemTitle": "Para recibir un botón o pegatina gratis,",
+    "sendEnvelope": "Envía un sobre con dirección y franqueo a:",
+    "address": {
+      "line1": "DECLARE",
+      "line2": "P.O. Box 143",
+      "line3": "Belmont, NC 28012"
+    },
+    "indicateItem": "Por favor indica en el sobre si deseas recibir un botón O una pegatina."
+  },
+  "checkout": {
+    "title": "Pagar",
+    "subtitle": "Completa tu pedido",
+    "orderSummary": "Resumen del pedido",
+    "total": "Total",
+    "fullName": "Nombre completo",
+    "emailAddress": "Correo electrónico",
+    "streetAddress": "Dirección",
+    "city": "Ciudad",
+    "state": "Estado",
+    "zipCode": "Código postal",
+    "completeOrder": "Finalizar pedido",
+    "footerText": "Tu pedido será procesado y enviado a la dirección indicada arriba.",
+    "oneKit": "Un kit",
+    "fiveKits": "Cinco kits",
+    "tenKits": "Diez kits"
+  },
+  "navbar": {
+    "home": "Inicio",
+    "about": "¿De qué se trata esto?",
+    "swag": "Merchandising"
+  }
+}
