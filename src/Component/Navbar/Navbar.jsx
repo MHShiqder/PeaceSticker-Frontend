@@ -57,7 +57,7 @@ export default function Navbar() {
   };
 
   return (
-    <div className="mx-auto w-10/12 h-12 flex items-center justify-between">
+    <div className="mx-auto md:w-10/12 md:h-12 flex flex-col md:flex-row items-center justify-between bg-white md:bg-transparent py-3 gap-2">
       <ul className="flex gap-2">
         <li className="font-bold">
           <NavLink to="/">{t("navbar.home")}</NavLink>
