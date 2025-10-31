@@ -16,11 +16,11 @@ function App() {
     <>
       <div className="h-[calc(100vh-48px)]  overflow-hidden image-class relative flex justify-center">
 
-  <p className="font-bold text-4xl playfair-display text-[#0000ff] teleprompter ">
+  <div className="font-bold text-4xl playfair-display text-[#0000ff] teleprompter ">
     {sentences.map((sentence, index) => (
        <> <p key={index}>{sentence.trim()}.</p> <br /></>
       ))}
-  </p>
+  </div>
 </div>
 
     </>
