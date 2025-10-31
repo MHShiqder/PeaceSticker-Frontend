@@ -1,5 +1,5 @@
 import React from "react";
-import peace from "../../assets/peace.png";
+import peace from "../../assets/peace.webp";
 import {  useTranslation } from "react-i18next";
 
 export default function About() {

@@ -106,7 +106,7 @@
 
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import kitImage from "../../assets/daretodeclare.png";
+import kitImage from "../../assets/daretodeclare.webp";
 import { useTranslation } from "react-i18next";
 
 export default function Kit() {

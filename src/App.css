@@ -1,7 +1,7 @@
 @import url('https://fonts.cdnfonts.com/css/times-new-roman');
 /* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap'); */
 .image-class{
-    background-image: url("./assets/peace.png");
+    background-image: url("./assets/peace.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size:400px auto;
