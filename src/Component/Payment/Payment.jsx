@@ -53,10 +53,10 @@ const Payment = () => {
   return (
     <div className="relative">
       <div className="absolute inset-0 bg-black z-50 hidden"></div>
-      <div className="space-y-6 w-xl mx-auto mt-28">
+      <div className="space-y-6 md:w-xl mx-auto mt-28">
         <Card className="border-blue-800">
           <CardHeader>
-            <CardTitle className="text-2xl font-bold text-blue-900">
+            <CardTitle className="md:text-2xl font-bold text-blue-900">
               Complete Your Payment
             </CardTitle>
             <CardDescription>

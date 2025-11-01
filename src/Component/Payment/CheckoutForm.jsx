@@ -103,7 +103,7 @@ const CheckoutForm = ({ clientSecret, price, formData }) => {
   };
 
   return (
-    <form id="payment-form" onSubmit={handleSubmit}>
+    <form id="payment-form" onSubmit={handleSubmit} className="">
       <PaymentElement id="payment-element" />
 
       <Button
