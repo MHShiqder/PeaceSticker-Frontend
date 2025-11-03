@@ -20,28 +20,41 @@
     "indicateItem": "يرجى الإشارة في الظرف إذا كنت ترغب في الحصول على زر أو ملصق."
   },
   "checkout": {
-  "title": "إتمام الدفع",
-  "subtitle": "أكمل طلبك",
-  "orderSummary": "ملخص الطلب",
-  "total": "الإجمالي",
-  "firstName": "الاسم الأول",
-  "lastName": "اسم العائلة",
-  "emailAddress": "البريد الإلكتروني",
-  "streetAddress": "عنوان الشارع",
-  "city": "المدينة",
-  "state": "الولاية",
-  "zipCode": "الرمز البريدي",
-  "country": "الدولة",
-  "completeOrder": "إكمال الطلب",
-  "footerText": "سيتم معالجة طلبك وشحنه إلى العنوان الموضح أعلاه.",
-  "oneKit": "مجموعة واحدة",
-  "fiveKits": "خمس مجموعات",
-  "tenKits": "عشر مجموعات"
-}
-,
+    "title": "إتمام الدفع",
+    "subtitle": "أكمل طلبك",
+    "orderSummary": "ملخص الطلب",
+    "total": "الإجمالي",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "emailAddress": "البريد الإلكتروني",
+    "streetAddress": "عنوان الشارع",
+    "city": "المدينة",
+    "state": "الولاية",
+    "zipCode": "الرمز البريدي",
+    "country": "الدولة",
+    "completeOrder": "إكمال الطلب",
+    "footerText": "سيتم معالجة طلبك وشحنه إلى العنوان الموضح أعلاه.",
+    "oneKit": "مجموعة واحدة",
+    "fiveKits": "خمس مجموعات",
+    "tenKits": "عشر مجموعات"
+  },
   "navbar": {
     "home": "الرئيسية",
     "about": "ما هذا؟",
-    "swag": "المنتجات"
-  }
+    "swag": "هدايا",
+    "contact": "اتصال"
+  },
+  "contact": {
+  "title": "اتصل بنا",
+  "subtitle": "نحن دائمًا سعداء بالتواصل! يمكنك التواصل معنا عبر تفاصيل الاتصال أدناه لأي أسئلة أو تعاون أو استفسارات عامة.",
+  "organizationName": "DECLARE",
+  "addressLine1": "ص.ب 143",
+  "addressLine2": "بيلمونت، نورث كارولاينا 28012",
+  "emailLabel": "البريد الإلكتروني",
+  "emailValue": "contact@dare2declare.org",
+  "phoneLabel": "الهاتف",
+  "phoneValue": "+1 (123) 456-7890",
+  "footerText": "نتطلع إلى سماع أخبارك."
+}
+
 }

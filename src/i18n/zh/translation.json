@@ -20,28 +20,41 @@
     "indicateItem": "请在信封上注明您希望收到按钮或贴纸。"
   },
   "checkout": {
-  "title": "结账",
-  "subtitle": "完成您的订单",
-  "orderSummary": "订单摘要",
-  "total": "总计",
-  "firstName": "名",
-  "lastName": "姓",
-  "emailAddress": "电子邮箱",
-  "streetAddress": "街道地址",
-  "city": "城市",
-  "state": "州/省",
-  "zipCode": "邮政编码",
-  "country": "国家",
-  "completeOrder": "完成订单",
-  "footerText": "您的订单将被处理并寄送到上述地址。",
-  "oneKit": "一套",
-  "fiveKits": "五套",
-  "tenKits": "十套"
-}
-,
+    "title": "结账",
+    "subtitle": "完成您的订单",
+    "orderSummary": "订单摘要",
+    "total": "总计",
+    "firstName": "名",
+    "lastName": "姓",
+    "emailAddress": "电子邮箱",
+    "streetAddress": "街道地址",
+    "city": "城市",
+    "state": "州/省",
+    "zipCode": "邮政编码",
+    "country": "国家",
+    "completeOrder": "完成订单",
+    "footerText": "您的订单将被处理并寄送到上述地址。",
+    "oneKit": "一套",
+    "fiveKits": "五套",
+    "tenKits": "十套"
+  },
   "navbar": {
     "home": "首页",
     "about": "这是什么？",
-    "swag": "周边商品"
-  }
+    "swag": "周边产品",
+    "contact": "联系"
+  },
+  "contact": {
+  "title": "联系我们",
+  "subtitle": "我们很高兴与您取得联系！如有任何问题、合作或一般咨询，请通过以下联系方式与我们联系。",
+  "organizationName": "DECLARE",
+  "addressLine1": "邮政信箱 143",
+  "addressLine2": "贝尔蒙特，北卡罗来纳州 28012",
+  "emailLabel": "电子邮箱",
+  "emailValue": "contact@dare2declare.org",
+  "phoneLabel": "电话",
+  "phoneValue": "+1 (123) 456-7890",
+  "footerText": "期待您的来信。"
+}
+
 }

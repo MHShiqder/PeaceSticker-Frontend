@@ -20,28 +20,41 @@
     "indicateItem": "封筒にボタンまたはステッカー希望と明記してください。"
   },
   "checkout": {
-  "title": "チェックアウト",
-  "subtitle": "注文を完了する",
-  "orderSummary": "注文内容の確認",
-  "total": "合計",
-  "firstName": "名",
-  "lastName": "姓",
-  "emailAddress": "メールアドレス",
-  "streetAddress": "住所",
-  "city": "市区町村",
-  "state": "都道府県",
-  "zipCode": "郵便番号",
-  "country": "国",
-  "completeOrder": "注文を完了する",
-  "footerText": "ご注文は処理され、上記の住所に発送されます。",
-  "oneKit": "1キット",
-  "fiveKits": "5キット",
-  "tenKits": "10キット"
-}
-,
+    "title": "チェックアウト",
+    "subtitle": "注文を完了する",
+    "orderSummary": "注文内容の確認",
+    "total": "合計",
+    "firstName": "名",
+    "lastName": "姓",
+    "emailAddress": "メールアドレス",
+    "streetAddress": "住所",
+    "city": "市区町村",
+    "state": "都道府県",
+    "zipCode": "郵便番号",
+    "country": "国",
+    "completeOrder": "注文を完了する",
+    "footerText": "ご注文は処理され、上記の住所に発送されます。",
+    "oneKit": "1キット",
+    "fiveKits": "5キット",
+    "tenKits": "10キット"
+  },
   "navbar": {
     "home": "ホーム",
     "about": "これは何ですか？",
-    "swag": "グッズ"
-  }
+    "swag": "グッズ",
+    "contact": "連絡先"
+  },
+  "contact": {
+  "title": "お問い合わせ",
+  "subtitle": "私たちはいつでもご連絡を歓迎しています。ご質問やコラボレーション、一般的なお問い合わせは、以下の連絡先までご連絡ください。",
+  "organizationName": "DECLARE",
+  "addressLine1": "P.O. Box 143",
+  "addressLine2": "ベルモント, NC 28012",
+  "emailLabel": "メール",
+  "emailValue": "contact@dare2declare.org",
+  "phoneLabel": "電話",
+  "phoneValue": "+1 (123) 456-7890",
+  "footerText": "ご連絡をお待ちしております。"
+}
+
 }

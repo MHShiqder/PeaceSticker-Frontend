@@ -20,28 +20,41 @@
     "indicateItem": "Bitte geben Sie auf dem Umschlag an, ob Sie einen Button ODER Aufkleber wünschen."
   },
   "checkout": {
-  "title": "Zur Kasse",
-  "subtitle": "Schließen Sie Ihre Bestellung ab",
-  "orderSummary": "Bestellübersicht",
-  "total": "Gesamt",
-  "firstName": "Vorname",
-  "lastName": "Nachname",
-  "emailAddress": "E-Mail-Adresse",
-  "streetAddress": "Straßenadresse",
-  "city": "Stadt",
-  "state": "Bundesland",
-  "zipCode": "Postleitzahl",
-  "country": "Land",
-  "completeOrder": "Bestellung abschließen",
-  "footerText": "Ihre Bestellung wird bearbeitet und an die oben angegebene Adresse versendet.",
-  "oneKit": "Ein Kit",
-  "fiveKits": "Fünf Kits",
-  "tenKits": "Zehn Kits"
-}
-,
+    "title": "Zur Kasse",
+    "subtitle": "Schließen Sie Ihre Bestellung ab",
+    "orderSummary": "Bestellübersicht",
+    "total": "Gesamt",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "emailAddress": "E-Mail-Adresse",
+    "streetAddress": "Straßenadresse",
+    "city": "Stadt",
+    "state": "Bundesland",
+    "zipCode": "Postleitzahl",
+    "country": "Land",
+    "completeOrder": "Bestellung abschließen",
+    "footerText": "Ihre Bestellung wird bearbeitet und an die oben angegebene Adresse versendet.",
+    "oneKit": "Ein Kit",
+    "fiveKits": "Fünf Kits",
+    "tenKits": "Zehn Kits"
+  },
   "navbar": {
     "home": "Startseite",
     "about": "Worum geht es hier?",
-    "swag": "Merchandise"
-  }
+    "swag": "Fanartikel",
+    "contact": "Kontakt"
+  },
+  "contact": {
+  "title": "Kontakt",
+  "subtitle": "Wir freuen uns immer, mit Ihnen in Kontakt zu treten! Verwenden Sie die untenstehenden Kontaktdaten für Fragen, Kooperationen oder allgemeine Anfragen.",
+  "organizationName": "DECLARE",
+  "addressLine1": "Postfach 143",
+  "addressLine2": "Belmont, NC 28012",
+  "emailLabel": "E-Mail",
+  "emailValue": "contact@dare2declare.org",
+  "phoneLabel": "Telefon",
+  "phoneValue": "+1 (123) 456-7890",
+  "footerText": "Wir freuen uns darauf, von Ihnen zu hören."
+}
+
 }

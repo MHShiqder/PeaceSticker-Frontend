@@ -20,28 +20,41 @@
     "indicateItem": "Por favor indica en el sobre si deseas recibir un botón O una pegatina."
   },
   "checkout": {
-  "title": "Pagar",
-  "subtitle": "Completa tu pedido",
-  "orderSummary": "Resumen del pedido",
-  "total": "Total",
-  "firstName": "Nombre",
-  "lastName": "Apellido",
-  "emailAddress": "Correo electrónico",
-  "streetAddress": "Dirección",
-  "city": "Ciudad",
-  "state": "Estado",
-  "zipCode": "Código postal",
-  "country": "País",
-  "completeOrder": "Finalizar pedido",
-  "footerText": "Tu pedido será procesado y enviado a la dirección indicada arriba.",
-  "oneKit": "Un kit",
-  "fiveKits": "Cinco kits",
-  "tenKits": "Diez kits"
-}
-,
+    "title": "Pagar",
+    "subtitle": "Completa tu pedido",
+    "orderSummary": "Resumen del pedido",
+    "total": "Total",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "emailAddress": "Correo electrónico",
+    "streetAddress": "Dirección",
+    "city": "Ciudad",
+    "state": "Estado",
+    "zipCode": "Código postal",
+    "country": "País",
+    "completeOrder": "Finalizar pedido",
+    "footerText": "Tu pedido será procesado y enviado a la dirección indicada arriba.",
+    "oneKit": "Un kit",
+    "fiveKits": "Cinco kits",
+    "tenKits": "Diez kits"
+  },
   "navbar": {
     "home": "Inicio",
     "about": "¿De qué se trata esto?",
-    "swag": "Merchandising"
-  }
+    "swag": "Mercancía",
+    "contact": "Contacto"
+  },
+  "contact": {
+  "title": "Contáctanos",
+  "subtitle": "¡Siempre estamos felices de conectar! Puedes comunicarte usando los detalles de contacto a continuación para cualquier pregunta, colaboración o consulta general.",
+  "organizationName": "DECLARE",
+  "addressLine1": "Apartado postal 143",
+  "addressLine2": "Belmont, NC 28012",
+  "emailLabel": "Correo electrónico",
+  "emailValue": "contact@dare2declare.org",
+  "phoneLabel": "Teléfono",
+  "phoneValue": "+1 (123) 456-7890",
+  "footerText": "Esperamos saber de ti."
+}
+
 }

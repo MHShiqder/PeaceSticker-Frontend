@@ -41,6 +41,19 @@
   "navbar": {
     "home": "Home",
     "about": "What's This About?",
-    "swag": "Swag"
-  }
+    "swag": "Swag",
+    "contact": "Contact"
+  },
+  "contact": {
+  "title": "Contact Us",
+  "subtitle": "We’re always happy to connect! You can reach out using the contact details below for any questions, collaborations, or general inquiries.",
+  "organizationName": "DECLARE",
+  "addressLine1": "P.O. Box 143",
+  "addressLine2": "Belmont, NC 28012",
+  "emailLabel": "Email",
+  "emailValue": "contact@dare2declare.org",
+  "phoneLabel": "Phone",
+  "phoneValue": "+1 (123) 456-7890",
+  "footerText": "We look forward to hearing from you."
+}
 }

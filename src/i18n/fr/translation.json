@@ -20,28 +20,41 @@
     "indicateItem": "Veuillez indiquer sur l'enveloppe si vous souhaitez recevoir un bouton OU un autocollant."
   },
   "checkout": {
-  "title": "Caisse",
-  "subtitle": "Complétez votre commande",
-  "orderSummary": "Résumé de la commande",
-  "total": "Total",
-  "firstName": "Prénom",
-  "lastName": "Nom",
-  "emailAddress": "Adresse e-mail",
-  "streetAddress": "Adresse",
-  "city": "Ville",
-  "state": "État",
-  "zipCode": "Code postal",
-  "country": "Pays",
-  "completeOrder": "Finaliser la commande",
-  "footerText": "Votre commande sera traitée et expédiée à l'adresse indiquée ci-dessus.",
-  "oneKit": "Un kit",
-  "fiveKits": "Cinq kits",
-  "tenKits": "Dix kits"
-}
-,
+    "title": "Caisse",
+    "subtitle": "Complétez votre commande",
+    "orderSummary": "Résumé de la commande",
+    "total": "Total",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "emailAddress": "Adresse e-mail",
+    "streetAddress": "Adresse",
+    "city": "Ville",
+    "state": "État",
+    "zipCode": "Code postal",
+    "country": "Pays",
+    "completeOrder": "Finaliser la commande",
+    "footerText": "Votre commande sera traitée et expédiée à l'adresse indiquée ci-dessus.",
+    "oneKit": "Un kit",
+    "fiveKits": "Cinq kits",
+    "tenKits": "Dix kits"
+  },
   "navbar": {
     "home": "Accueil",
     "about": "De quoi s'agit-il ?",
-    "swag": "Produits dérivés"
-  }
+    "swag": "Produits dérivés",
+    "contact": "Contact"
+  },
+  "contact": {
+  "title": "Contactez-nous",
+  "subtitle": "Nous sommes toujours ravis d’échanger avec vous ! Vous pouvez nous contacter via les coordonnées ci-dessous pour toute question, collaboration ou demande générale.",
+  "organizationName": "DECLARE",
+  "addressLine1": "Boîte postale 143",
+  "addressLine2": "Belmont, NC 28012",
+  "emailLabel": "E-mail",
+  "emailValue": "contact@dare2declare.org",
+  "phoneLabel": "Téléphone",
+  "phoneValue": "+1 (123) 456-7890",
+  "footerText": "Nous avons hâte d’avoir de vos nouvelles."
+}
+
 }

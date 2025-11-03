@@ -14,6 +14,7 @@ import About from './Pages/About/About.jsx';
 import Kit from './Pages/Kit/Kit.jsx';
 import Checkout from './Pages/Checkout/Checkout.jsx';
 import Payment from './Component/Payment/Payment';
+import Contact from './Pages/Contact/Contact';
 
 const router = createBrowserRouter([
   {
@@ -40,6 +41,10 @@ const router = createBrowserRouter([
       {
         path:"/payment",
         element:<Payment/>,
+      },
+      {
+        path:"/contact",
+        element:<Contact/>,
       },
     ]
   },

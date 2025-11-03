@@ -20,28 +20,41 @@
     "indicateItem": "봉투에 버튼 또는 스티커 중 어떤 것을 원하는지 명시해주세요."
   },
   "checkout": {
-  "title": "결제하기",
-  "subtitle": "주문을 완료하세요",
-  "orderSummary": "주문 요약",
-  "total": "합계",
-  "firstName": "이름",
-  "lastName": "성",
-  "emailAddress": "이메일 주소",
-  "streetAddress": "도로명 주소",
-  "city": "도시",
-  "state": "주/도",
-  "zipCode": "우편번호",
-  "country": "국가",
-  "completeOrder": "주문 완료",
-  "footerText": "주문이 처리된 후 위 주소로 발송됩니다.",
-  "oneKit": "1개 세트",
-  "fiveKits": "5개 세트",
-  "tenKits": "10개 세트"
-}
-,
+    "title": "결제하기",
+    "subtitle": "주문을 완료하세요",
+    "orderSummary": "주문 요약",
+    "total": "합계",
+    "firstName": "이름",
+    "lastName": "성",
+    "emailAddress": "이메일 주소",
+    "streetAddress": "도로명 주소",
+    "city": "도시",
+    "state": "주/도",
+    "zipCode": "우편번호",
+    "country": "국가",
+    "completeOrder": "주문 완료",
+    "footerText": "주문이 처리된 후 위 주소로 발송됩니다.",
+    "oneKit": "1개 세트",
+    "fiveKits": "5개 세트",
+    "tenKits": "10개 세트"
+  },
   "navbar": {
     "home": "홈",
     "about": "소개",
-    "swag": "기념품"
-  }
+    "swag": "굿즈",
+    "contact": "문의하기"
+  },
+  "contact": {
+  "title": "문의하기",
+  "subtitle": "언제든지 연락 환영합니다! 질문, 협업 또는 일반 문의는 아래의 연락처로 문의해주세요.",
+  "organizationName": "DECLARE",
+  "addressLine1": "P.O. Box 143",
+  "addressLine2": "벨몬트, NC 28012",
+  "emailLabel": "이메일",
+  "emailValue": "contact@dare2declare.org",
+  "phoneLabel": "전화번호",
+  "phoneValue": "+1 (123) 456-7890",
+  "footerText": "당신의 소식을 기다리고 있습니다."
+}
+
 }
