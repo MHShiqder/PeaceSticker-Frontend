@@ -15,6 +15,9 @@ import Kit from './Pages/Kit/Kit.jsx';
 import Checkout from './Pages/Checkout/Checkout.jsx';
 import Payment from './Component/Payment/Payment';
 import Contact from './Pages/Contact/Contact';
+import BlogList from './Pages/Blogs/Bloglist';
+import BlogUpload from './Pages/Blogs/BlogUpload';
+import BlogDetail from './Pages/Blogs/BlogDetail';
 
 const router = createBrowserRouter([
   {
@@ -45,6 +48,18 @@ const router = createBrowserRouter([
       {
         path:"/contact",
         element:<Contact/>,
+      },
+      {
+        path:"/blogs",
+        element:<BlogList/>,
+      },
+      {
+        path:"/blog/:id",
+        element:<BlogDetail/>,
+      },
+      {
+        path:"/blogs-upload",
+        element:<BlogUpload/>,
       },
     ]
   },

@@ -42,18 +42,40 @@
     "home": "Home",
     "about": "What's This About?",
     "swag": "Swag",
-    "contact": "Contact"
+    "contact": "Contact",
+    "blogs": "Blog"
   },
   "contact": {
-  "title": "Contact Us",
-  "subtitle": "We’re always happy to connect! You can reach out using the contact details below for any questions, collaborations, or general inquiries.",
-  "organizationName": "DECLARE",
-  "addressLine1": "P.O. Box 143",
-  "addressLine2": "Belmont, NC 28012",
-  "emailLabel": "Email",
-  "emailValue": "contact@dare2declare.org",
-  "phoneLabel": "Phone",
-  "phoneValue": "+1 (123) 456-7890",
-  "footerText": "We look forward to hearing from you."
+    "title": "Contact Us",
+    "subtitle": "We’d love to hear from you. Please send us your message below.",
+    "emailLabel": "Your Email",
+    "emailPlaceholder": "Enter your email address",
+    "messageLabel": "Your Message",
+    "messagePlaceholder": "Type your message here...",
+    "submitButton": "Send Message",
+    "footerText": "We’ll get back to you as soon as possible."
+  },
+  "blog": {
+  "sidebarTitle": "Blog Titles",
+  "loading": "Loading posts...",
+  "selectMessage": "Select a blog to read."
+},
+"blogUpload": {
+  "heading": "Upload New Blog Post",
+  "uploadPhoto": "Upload Photo",
+  "uploading": "Uploading...",
+  "blogTitle": "Blog Title",
+  "blogBody": "Blog Body",
+  "titlePlaceholder": "Enter blog title...",
+  "bodyPlaceholder": "Write your blog content...",
+  "publish": "Publish Post",
+  "wait": "Please wait...",
+  "imageSuccess": "Image uploaded successfully!",
+  "imageFail": "Image upload failed!",
+  "postSuccess": "Post uploaded successfully!",
+  "postFail": "Something went wrong!",
+  "missingFields": "Please add title, body, and image!"
 }
+
+
 }

@@ -197,7 +197,7 @@ export default function Checkout() {
                   id="country"
                   name="country"
                   required
-                  maxLength={5}
+                  maxLength={50}
                   value={formData.country}
                   onChange={handleChange}
                   className="w-full px-4 py-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-700 focus:border-transparent outline-none transition"

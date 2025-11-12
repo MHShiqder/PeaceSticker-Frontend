@@ -33,6 +33,10 @@ export default function Navbar() {
           <li className="font-bold">
             <NavLink to="/contact">{t("navbar.contact")}</NavLink>
           </li>
+          <li className="font-bold">|</li>
+          <li className="font-bold">
+            <NavLink to="/blogs">{t("navbar.blogs")}</NavLink>
+          </li>
         </ul>
 
         {/* Language selector stays visible on desktop */}
@@ -104,6 +108,11 @@ export default function Navbar() {
           <li className="font-bold">
             <NavLink to="/contact" onClick={() => setMenuOpen(false)}>
               {t("navbar.contact")}
+            </NavLink>
+          </li>
+          <li className="font-bold">
+            <NavLink to="/blogs" onClick={() => setMenuOpen(false)}>
+              {t("navbar.blogs")}
             </NavLink>
           </li>
         </ul>

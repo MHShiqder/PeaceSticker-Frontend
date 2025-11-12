@@ -42,19 +42,41 @@
     "home": "首页",
     "about": "这是什么？",
     "swag": "周边产品",
-    "contact": "联系"
+    "contact": "联系",
+    "blogs": "博客"
   },
   "contact": {
   "title": "联系我们",
-  "subtitle": "我们很高兴与您取得联系！如有任何问题、合作或一般咨询，请通过以下联系方式与我们联系。",
-  "organizationName": "DECLARE",
-  "addressLine1": "邮政信箱 143",
-  "addressLine2": "贝尔蒙特，北卡罗来纳州 28012",
-  "emailLabel": "电子邮箱",
-  "emailValue": "contact@dare2declare.org",
-  "phoneLabel": "电话",
-  "phoneValue": "+1 (123) 456-7890",
-  "footerText": "期待您的来信。"
+  "subtitle": "我们很乐意听取您的意见，请在下方发送您的留言。",
+  "emailLabel": "您的邮箱",
+  "emailPlaceholder": "请输入您的邮箱地址",
+  "messageLabel": "您的留言",
+  "messagePlaceholder": "请在此输入您的留言...",
+  "submitButton": "发送留言",
+  "footerText": "我们会尽快回复您。"
+},
+"blog": {
+  "sidebarTitle": "博客标题",
+  "loading": "正在加载文章...",
+  "selectMessage": "选择一个博客阅读。"
+},
+"blogUpload": {
+  "heading": "上传新博客文章",
+  "uploadPhoto": "上传照片",
+  "uploading": "上传中...",
+  "blogTitle": "博客标题",
+  "blogBody": "博客内容",
+  "titlePlaceholder": "输入博客标题...",
+  "bodyPlaceholder": "撰写您的博客内容...",
+  "publish": "发布文章",
+  "wait": "请稍候...",
+  "imageSuccess": "图片上传成功！",
+  "imageFail": "图片上传失败！",
+  "postSuccess": "文章上传成功！",
+  "postFail": "出现错误！",
+  "missingFields": "请添加标题、内容和图片！"
 }
+
+
 
 }

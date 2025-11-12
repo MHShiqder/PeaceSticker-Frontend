@@ -42,19 +42,42 @@
     "home": "ホーム",
     "about": "これは何ですか？",
     "swag": "グッズ",
-    "contact": "連絡先"
+    "contact": "連絡先",
+    "blogs": "ブログ"
   },
   "contact": {
   "title": "お問い合わせ",
-  "subtitle": "私たちはいつでもご連絡を歓迎しています。ご質問やコラボレーション、一般的なお問い合わせは、以下の連絡先までご連絡ください。",
-  "organizationName": "DECLARE",
-  "addressLine1": "P.O. Box 143",
-  "addressLine2": "ベルモント, NC 28012",
-  "emailLabel": "メール",
-  "emailValue": "contact@dare2declare.org",
-  "phoneLabel": "電話",
-  "phoneValue": "+1 (123) 456-7890",
-  "footerText": "ご連絡をお待ちしております。"
+  "subtitle": "ぜひご意見をお聞かせください。以下のフォームからメッセージをお送りください。",
+  "emailLabel": "メールアドレス",
+  "emailPlaceholder": "メールアドレスを入力してください",
+  "messageLabel": "メッセージ",
+  "messagePlaceholder": "ここにメッセージを入力してください...",
+  "submitButton": "メッセージを送信",
+  "footerText": "できるだけ早くご連絡いたします。"
+},
+"blog": {
+  "sidebarTitle": "ブログタイトル",
+  "loading": "投稿を読み込み中...",
+  "selectMessage": "読むブログを選択してください。"
+},
+"blogUpload": {
+  "heading": "新しいブログ投稿をアップロード",
+  "uploadPhoto": "写真をアップロード",
+  "uploading": "アップロード中...",
+  "blogTitle": "ブログのタイトル",
+  "blogBody": "ブログの内容",
+  "titlePlaceholder": "ブログのタイトルを入力...",
+  "bodyPlaceholder": "ブログの内容を書いてください...",
+  "publish": "投稿を公開",
+  "wait": "しばらくお待ちください...",
+  "imageSuccess": "画像が正常にアップロードされました！",
+  "imageFail": "画像のアップロードに失敗しました！",
+  "postSuccess": "投稿が正常にアップロードされました！",
+  "postFail": "何か問題が発生しました！",
+  "missingFields": "タイトル、内容、画像を追加してください！"
 }
+
+
+
 
 }

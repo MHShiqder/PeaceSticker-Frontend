@@ -73,7 +73,7 @@ const CheckoutForm = ({ clientSecret, price, formData }) => {
       try {
         // Wait for Axios to succeed first
         await axios.post(
-          `${import.meta.env.VITE_Stripe_Backend_Api}/send-and-save`,
+          `${import.meta.env.VITE_Stripe_Backend_Api}/orders`,
           { price, formData }
         );
         console.log("Data sent successfully");

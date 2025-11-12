@@ -42,19 +42,42 @@
     "home": "Inicio",
     "about": "¿De qué se trata esto?",
     "swag": "Mercancía",
-    "contact": "Contacto"
+    "contact": "Contacto",
+     "blogs": "Blogs"
   },
   "contact": {
   "title": "Contáctanos",
-  "subtitle": "¡Siempre estamos felices de conectar! Puedes comunicarte usando los detalles de contacto a continuación para cualquier pregunta, colaboración o consulta general.",
-  "organizationName": "DECLARE",
-  "addressLine1": "Apartado postal 143",
-  "addressLine2": "Belmont, NC 28012",
-  "emailLabel": "Correo electrónico",
-  "emailValue": "contact@dare2declare.org",
-  "phoneLabel": "Teléfono",
-  "phoneValue": "+1 (123) 456-7890",
-  "footerText": "Esperamos saber de ti."
+  "subtitle": "Nos encantaría saber de ti. Por favor envíanos tu mensaje a continuación.",
+  "emailLabel": "Tu correo electrónico",
+  "emailPlaceholder": "Ingresa tu dirección de correo",
+  "messageLabel": "Tu mensaje",
+  "messagePlaceholder": "Escribe tu mensaje aquí...",
+  "submitButton": "Enviar mensaje",
+  "footerText": "Te responderemos lo antes posible."
+},
+"blog": {
+  "sidebarTitle": "Títulos del Blog",
+  "loading": "Cargando publicaciones...",
+  "selectMessage": "Selecciona un blog para leer."
+},
+"blogUpload": {
+  "heading": "Subir nuevo blog",
+  "uploadPhoto": "Subir foto",
+  "uploading": "Subiendo...",
+  "blogTitle": "Título del blog",
+  "blogBody": "Contenido del blog",
+  "titlePlaceholder": "Ingresa el título del blog...",
+  "bodyPlaceholder": "Escribe el contenido de tu blog...",
+  "publish": "Publicar",
+  "wait": "Por favor espera...",
+  "imageSuccess": "¡Imagen subida con éxito!",
+  "imageFail": "¡Error al subir la imagen!",
+  "postSuccess": "¡Publicación subida con éxito!",
+  "postFail": "¡Algo salió mal!",
+  "missingFields": "¡Por favor agrega título, contenido e imagen!"
 }
+
+
+
 
 }

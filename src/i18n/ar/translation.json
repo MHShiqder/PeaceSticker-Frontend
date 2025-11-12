@@ -42,19 +42,42 @@
     "home": "الرئيسية",
     "about": "ما هذا؟",
     "swag": "هدايا",
-    "contact": "اتصال"
+    "contact": "اتصال",
+    "blogs": "مدونات" 
   },
   "contact": {
   "title": "اتصل بنا",
-  "subtitle": "نحن دائمًا سعداء بالتواصل! يمكنك التواصل معنا عبر تفاصيل الاتصال أدناه لأي أسئلة أو تعاون أو استفسارات عامة.",
-  "organizationName": "DECLARE",
-  "addressLine1": "ص.ب 143",
-  "addressLine2": "بيلمونت، نورث كارولاينا 28012",
-  "emailLabel": "البريد الإلكتروني",
-  "emailValue": "contact@dare2declare.org",
-  "phoneLabel": "الهاتف",
-  "phoneValue": "+1 (123) 456-7890",
-  "footerText": "نتطلع إلى سماع أخبارك."
+  "subtitle": "نود أن نسمع منك. من فضلك أرسل رسالتك أدناه.",
+  "emailLabel": "بريدك الإلكتروني",
+  "emailPlaceholder": "أدخل عنوان بريدك الإلكتروني",
+  "messageLabel": "رسالتك",
+  "messagePlaceholder": "اكتب رسالتك هنا...",
+  "submitButton": "إرسال الرسالة",
+  "footerText": "سوف نرد عليك في أقرب وقت ممكن."
+},
+"blog": {
+  "sidebarTitle": "عناوين المدونة",
+  "loading": "جارٍ تحميل المشاركات...",
+  "selectMessage": "اختر منشورًا للقراءة."
+},
+"blogUpload": {
+  "heading": "تحميل منشور جديد",
+  "uploadPhoto": "تحميل صورة",
+  "uploading": "جارٍ التحميل...",
+  "blogTitle": "عنوان المدونة",
+  "blogBody": "محتوى المدونة",
+  "titlePlaceholder": "أدخل عنوان المدونة...",
+  "bodyPlaceholder": "اكتب محتوى مدونتك...",
+  "publish": "نشر المنشور",
+  "wait": "يرجى الانتظار...",
+  "imageSuccess": "تم تحميل الصورة بنجاح!",
+  "imageFail": "فشل تحميل الصورة!",
+  "postSuccess": "تم نشر المنشور بنجاح!",
+  "postFail": "حدث خطأ ما!",
+  "missingFields": "يرجى إضافة العنوان والمحتوى والصورة!"
 }
+
+
+
 
 }
